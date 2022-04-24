@@ -10,4 +10,4 @@ The data is stored in a MySQL database.
 
 This is an example of the Main Screen:
 
-![main screen](MainScreen.png "main screen").
+![main screen](MainScreenExample.png "main screen").
