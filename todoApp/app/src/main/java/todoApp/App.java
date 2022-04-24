@@ -9,10 +9,14 @@ import todoApp.controler.ProjectControler;
 import todoApp.controler.TaskControler;
 import todoApp.model.Project;
 import todoApp.model.Task;
+import todoApp.view.MainScreen;
 
 public class App {
 
     public static void main(String[] args) {
+        
+        MainScreen mainScreen = new MainScreen();
+        mainScreen.setVisible(true);
         
         ProjectControler projectControler = new ProjectControler();
         
