@@ -1,6 +1,7 @@
 # JAVA
 
-This repository contains the projects made during the full-stack Java Course offered by Capgemini.
+This repository contains the projects made during the full-stack Java Course offered by Capgemini. 
+A short preview is available [here](https://www.youtube.com/watch?v=rdFNYWzLCKs).
 
 ## [Todo App](https://github.com/paola-yumi-m/JAVA/blob/main/todoApp/app/src/main/java/todoApp/App.java)
 
