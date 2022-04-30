@@ -1,0 +1,42 @@
+bookApp
+
+Definição:
+
+App para controlar os livros lidos, não lidos e que deseja ler.
+
+Objetivo:
+
+Organizar os livros como numa biblioteca particular online.
+
+Entidades:
+
+* Coleção
+	- Nome
+	- Autor
+	- Status (lidos/parcialmente lidos/não lidos) (marcável)
+	- Tipo (eBook/físico)
+	- Gênero 
+* Livro
+	- Nome
+	- Autor
+	- Status (lido/parcialmente lido/não lido) (marcável)
+	- Página atual (editável)
+	- Número de páginas
+	- Tipo (eBook/físico)
+	- Gênero
+
+Requisitos:
+
+* Permitit criar coleção
+* Permitir alterar coleção
+* Permitir deletar coleção
+
+* Permitir criar livro
+* Permitir editar livro
+* Permitir excluir livro
+
+Regras de negócio:
+
+* Sem sistema de login
+* O livro pode ou não pertencer a uma coleção
+* Não há usuário

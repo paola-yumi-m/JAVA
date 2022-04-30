@@ -1,0 +1,9 @@
+1. Criar database e tabelas no mySQL 
+2. Criar os packages model, view, controller  e util
+3. Criar as classes das entidades em model, com construtor, getters, setters e toString()
+4. Criar em util a conexão com o banco de dados
+	- Criar a classe ConnectionFactory
+	- Criar o método getConnection
+	- Criar o método closeConnection
+5. Criar os controllers em controller
+	- Criar os métodos SQL (salvar, atualizar, excluir, mostrar etc)
